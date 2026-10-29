@@ -1,0 +1,14 @@
+body{
+  background-color: black;
+}
+p{
+  color : white;
+  font-family: "Didot", Serif;
+}
+span{
+  color: darkred;
+}
+h1{
+  color: darkred;
+  font-family: "Didot", Serif;
+}
